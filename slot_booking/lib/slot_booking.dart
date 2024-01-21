@@ -1,7 +1,4 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
 library slot_booking;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+
